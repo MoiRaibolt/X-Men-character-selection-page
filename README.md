@@ -3,6 +3,9 @@
 A fun and interactive front-end project inspired by the X-Men universe.  
 This project showcases a character selection interface with dynamic UI, smooth transitions, and responsive design, built entirely with **HTML, CSS, and JavaScript**.
 
+<p align="center"> <img src="assets/images/x-men.png" 
+alt="Calculator-BMI Screenshot" width="400"> </p>
+
 ---
 
 ## 📌 Overview
